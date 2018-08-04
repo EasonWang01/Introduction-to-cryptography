@@ -9,7 +9,7 @@
  2.2 [Triple-DES](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/2.2%20Triple-DES.md)\
  2.3 [IDEA](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/2.3%20IDEA.md)\
  2.4 [BlowFIsh、TwoFish](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/2.4%20BlowFIsh%E3%80%81TwoFish.md)\
- 2.5 [RC](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/2.5%20RC%E7%B3%BB%E5%88%97.md)
+ 2.5 [RC](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/2.5%20RC.md)
 * [非對稱式加密](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/3.%20%E9%9D%9E%E5%B0%8D%E7%A8%B1%E5%BC%8F%E5%8A%A0%E5%AF%86.md)\
  3.1 [RSA](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/3.1%20RSA.md)\
  3.2 [DSA](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/3.2%20DSA.md)\
