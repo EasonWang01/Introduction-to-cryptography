@@ -16,4 +16,4 @@
  3.3 [ECDSA](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/3.3%20ECDSA.md)\
  3.4 [Diffie–Hellman](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/3.4%20Diffie%E2%80%93Hellman.md)\
  3.5 [ECDH](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/3.5%20ECDH.md)\
- 3.6 [ECIES](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/3.5%20ECIES.md)
+ 3.6 [ECIES](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/3.6%20ECIES.md)
