@@ -4,6 +4,7 @@
  1.1 [Bcrypt、PBKDF2、Scrypt、Argon2](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/1.1%20Bcrypt%E3%80%81PBKDF2%E3%80%81Scrypt%E3%80%81Argon2.md)\
  1.2 [SHA](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/1.2%20SHA.md)\
  1.3 [RIPEMD.md](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/1.3%20RIPEMD.md)
+ 1.4 [MD5.md](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/1.4%20MD5.md)
 * [對稱式加密](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/2.%20%E5%B0%8D%E7%A8%B1%E5%BC%8F%E5%8A%A0%E5%AF%86.md)\
  2.1 [AES](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/2.1%20AES.md)\
  2.2 [Triple-DES](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/2.2%20Triple-DES.md)\
