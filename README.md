@@ -19,4 +19,9 @@
  3.5 [ECDH](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/3.5%20ECDH.md)\
  3.6 [ECIES](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/3.6%20ECIES.md)
 * [其他]\
- 4.1 [OpenSSL 實用指令](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/4.1%20OpenSSL%20%E5%AF%A6%E7%94%A8%E6%8C%87%E4%BB%A4.md)
+ 4.1 [OpenSSL 實用指令](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/4.1%20OpenSSL%20%E5%AF%A6%E7%94%A8%E6%8C%87%E4%BB%A4.md)\
+ 4.2 [Byte Padding](https://github.com/EasonWang01/Introduction-to-cryptography/blob/master/4.2%20Byte%20Padding.md)
+ 
+ 
+## 更詳細內容可參考作者於 2018 出版之電子書（密碼學介紹章節） 
+https://books.google.com.tw/books/about/%E5%AF%A6%E6%88%B0%E5%8D%80%E5%A1%8A%E9%8F%88%E6%8A%80%E8%A1%93_%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E8%88%87%E5%AF%86.html?id=NjdhDwAAQBAJ&redir_esc=y
